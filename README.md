@@ -100,7 +100,7 @@ raw data  →  SQL transforms  →  SSMS / EF Core  →  API layer  →  insight
 |---|---|
 | 📧 | [a.davlasheridze111@gmail.com](mailto:a.davlasheridze111@gmail.com) |
 | 💼 | [linkedin.com/in/amiko-davlasheridze](https://www.linkedin.com/in/amiko-davlasheridze-02622537b/) |
-| 🐙 | [github.com/meshvelianitemo](https://github.com/meshvelianitemo) |
+| 🐙 | [github.com/meshvelianitemo](https://github.com/AmikoDavlasheridze) |
  
 ---
  
