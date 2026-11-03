@@ -1,125 +1,104 @@
+# Hi there, I'm Amiko! 👋
+
+<!-- Theme-Sensitive Header Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="readmefile/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="readmefile/light.svg">
+  <img alt="Amiko — spinning 3D C# made of 0s and 1s, with an animated terminal intro" src="readmefile/dark.svg" width="100%">
+</picture>
+
+<br/>
+
+## 🚀 About Me
+I'm **Amiko**, a 3rd year **IT student at BTU** in **Tbilisi, Georgia 🇬🇪** and an **IT Support Intern at RSM Georgia Solutions**. I'm aiming for a **junior .NET developer** role, so I build original projects on my own: **ASP.NET Core Web APIs**, frontends, and data analytics tools.
+
+> 💡 *"Ship small, learn fast, refactor often."*
+
+- ⚙️ **Backend:** ASP.NET Core Web APIs in C#
+- 🎨 **Frontend:** UIs on top of my own APIs
+- 📊 **Data:** analytics tools and calculators
+- 🎓 **Education:** IT @ BTU
+- 💬 **Ask me about:** C#, .NET, building REST APIs from scratch
+- ✉️ **Contact:** [a.davlasheridze111@gmail.com](mailto:a.davlasheridze111@gmail.com)
+- 🐙 **GitHub:** [github.com/AmikoDavlasheridze](https://github.com/AmikoDavlasheridze)
+- 🔗 **LinkedIn:** [linkedin.com/in/amiko-davlasheridze](https://www.linkedin.com/in/amiko-davlasheridze-02622537b/)
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Languages
+![C#](https://img.shields.io/badge/C%23-10B981?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D9488?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-34D399?style=flat-square&logo=postgresql&logoColor=white)
+
+### ⚙️ Backend & API
+![.NET](https://img.shields.io/badge/.NET-10B981?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0D9488?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-34D399?style=flat-square&logo=dotnet&logoColor=white)
+
+### ☁️ Tools
+![Git](https://img.shields.io/badge/Git-34D399?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D9488?style=flat-square&logo=visualstudio&logoColor=white)
+
+<!-- Trim or add badges so this only lists what you actually use -->
+
+---
+
+## 📦 Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🎸 **[RiffRecords](https://github.com/AmikoDavlasheridze/RiffRecords)** | Backend Web API for a vinyl record shop | ASP.NET Core, C# |
+| 🚗 **[AutoFlip AI](https://github.com/AmikoDavlasheridze/AutoFlip)** | Car deal analyzer / flip calculator for MyAuto and FB Marketplace | C#, .NET |
+
+---
+
+## 📈 GitHub Stats & Metrics
+
+<!-- Sleek contribution activity graph with theme sensitivity -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3000&pause=1000&color=3B6D11&center=true&vCenter=true&random=false&width=640&lines=Junior+.NET+%26+Data+Developer;ASP.NET+Core+Learner;SQL+%26+SSMS+Enthusiast;Data+Engineering+Curious" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.vercel.app/graph?username=AmikoDavlasheridze&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.vercel.app/graph?username=AmikoDavlasheridze&bg_color=FFFFFF&color=475569&line=0D9488&point=10B981&area_color=E6FFFA&area=true&hide_border=true&radius=12">
+    <img alt="Contribution Activity Graph" src="https://activity-graph.vercel.app/graph?username=AmikoDavlasheridze&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12" width="100%" />
+  </picture>
 </p>
 
-<h1 align="center">AMIKO DAVLASHERIDZE</h1>
-<h3 align="center"><code>Junior .NET Developer / Data & SQL Developer</code></h3>
+<!-- Side-by-Side Stats Cards with theme sensitivity -->
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=AmikoDavlasheridze&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=AmikoDavlasheridze&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
+    <img alt="GitHub Stats" src="https://ghstats.dev/api/card?username=AmikoDavlasheridze&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
+  </picture>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amiko-davlasheridze-02622537b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/AmikoDavlasheridze">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:a.davlasheridze111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_opportunities-2d6a4f?style=for-the-badge" alt="Open to opportunities"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=AmikoDavlasheridze&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=AmikoDavlasheridze&layout=grid&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
+    <img alt="Top Languages" src="https://ghstats.dev/api/langs?username=AmikoDavlasheridze&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
+  </picture>
+</p>
+
+<!-- Streak Stats with theme sensitivity -->
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AmikoDavlasheridze&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AmikoDavlasheridze&theme=light&background=FFFFFF&stroke=E2E8F0&ring=0D9488&fire=10B981&currStreakNum=0D9488&currStreakLabel=475569&sideNums=475569&sideLabels=475569&dates=94A3B8">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=AmikoDavlasheridze&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280">
+  </picture>
 </p>
 
 ---
- 
-## 🦅 about
- 
-CS student at **Business and Technology University (BTU)**, Tbilisi. Building foundational skills in **ASP.NET Core** backend development and **SQL Server** data modeling. Drawn to the intersection of structured data and application logic — particularly how clean schemas and efficient queries power real software. Currently expanding into data engineering concepts: ETL pipelines, reporting, and data-aware backend design.
- 
-```json
-{
-  "developer": {
-    "name": "Amiko Davlasheridze",
-    "location": "Georgia, Tbilisi",
-    "education": "Business and Technology University (BTU)",
-    "currentFocus": ["ASP.NET Core", "SQL Server", "Data Engineering"],
-    "learningGoal": "Building data-driven backend applications",
-    "availability": "Open to internships and junior positions"
-  }
-}
-```
- 
----
- 
-## 🤖 data pipeline mindset
- 
-```
-raw data  →  SQL transforms  →  SSMS / EF Core  →  API layer  →  insights
-```
- 
----
- 
-## 💻 tech stack
- 
-### 🗣️ Languages
- 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- 
-### ⚙️ Backend & Frameworks
- 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
- 
-### 🗄️ Data & Databases
- 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
- 
-### 🛠️ Tools & IDE
- 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
- 
----
- 
-## 💾 power bi
- 
-> 📊 Familiarising myself with **Microsoft Power BI** as a natural extension of SQL Server work. Learning how to connect to SSMS data sources, build data models with relationships, and create dashboards that surface the same insights I'm used to querying by hand. Still early — but it fits well into the .NET / Microsoft ecosystem I'm already building in.
- 
----
- 
-## 🎓 currently learning
- 
-| | Topic |
-|---|---|
-| 🗄️ | Stored procedures, views, and query optimisation in T-SQL |
-| 🔐 | JWT authentication patterns in ASP.NET Core |
-| 🔁 | Introduction to ETL concepts and data pipeline design |
-| 🧪 | Unit testing with xUnit — writing my first real test suites |
- 
----
- 
-## 📞 contact
- 
-| | |
-|---|---|
-| 📧 | [a.davlasheridze111@gmail.com](mailto:a.davlasheridze111@gmail.com) |
-| 💼 | [linkedin.com/in/amiko-davlasheridze](https://www.linkedin.com/in/amiko-davlasheridze-02622537b/) |
-| 🐙 | [github.com/AmikoDavlasheridze](https://github.com/AmikoDavlasheridze) |
- 
----
- 
-<div align="center">
-**Georgia, Tbilisi · BTU · "Learning by building."**
- 
-</div>
 
-<!--
-**AmikoDavlasheridze/AmikoDavlasheridze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  ⭐ <b>If you like this profile README, please consider leaving a star to show your support!</b> ⭐
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Designed, thought, and developed with 💚 by <a href="https://github.com/AmikoDavlasheridze"><b>Amiko</b></a><br/>
+  <sub>Every line of code crafted in C#, one 0 and 1 at a time.</sub>
+</p>
