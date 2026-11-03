@@ -16,7 +16,8 @@ I'm **Amiko**, a 3rd year **IT student at BTU** in **Tbilisi, Georgia 🇬🇪**
 
 - ⚙️ **Backend:** ASP.NET Core Web APIs in C#
 - 🎨 **Frontend:** UIs on top of my own APIs
-- 📊 **Data:** analytics tools and calculators
+- 📊 **Data:** SQL Server data warehousing (star schemas, SCD Type 2, ETL) and analytics tools
+- 🤖 **AI-Assisted Dev:** skilled with Claude & ChatGPT agents to plan, build, debug and review code faster
 - 🎓 **Education:** IT @ BTU
 - 💬 **Ask me about:** C#, .NET, building REST APIs from scratch
 - ✉️ **Contact:** [a.davlasheridze111@gmail.com](mailto:a.davlasheridze111@gmail.com)
@@ -31,11 +32,23 @@ I'm **Amiko**, a 3rd year **IT student at BTU** in **Tbilisi, Georgia 🇬🇪**
 ![C#](https://img.shields.io/badge/C%23-10B981?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D9488?style=flat-square&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-34D399?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=white)
+![Java (basic)](https://img.shields.io/badge/Java_%28basic%29-0D9488?style=flat-square&logo=openjdk&logoColor=white)
 
 ### ⚙️ Backend & API
 ![.NET](https://img.shields.io/badge/.NET-10B981?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0D9488?style=flat-square&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core-34D399?style=flat-square&logo=dotnet&logoColor=white)
+
+### 🗄️ Databases & Data
+![SQL Server](https://img.shields.io/badge/SQL_Server-10B981?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-0D9488?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-34D399?style=flat-square)
+
+### 🤖 AI & Agents
+![Claude Agents](https://img.shields.io/badge/Claude_Agents-10B981?style=flat-square&logo=claude&logoColor=white)
+![ChatGPT Agents](https://img.shields.io/badge/ChatGPT_Agents-0D9488?style=flat-square&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-34D399?style=flat-square&logo=openai&logoColor=white)
 
 ### ☁️ Tools
 ![Git](https://img.shields.io/badge/Git-34D399?style=flat-square&logo=git&logoColor=white)
@@ -50,9 +63,11 @@ I'm **Amiko**, a 3rd year **IT student at BTU** in **Tbilisi, Georgia 🇬🇪**
 
 | Project | What it is | Stack |
 |---|---|---|
+| 💰 **[FinnTracker](https://github.com/AmikoDavlasheridze/FinnTracker)** | Personal finance API: JWT auth, SendGrid email verification, transactions, budgets and analytics endpoints (spending by category, income vs. expenses, budget vs. actual) | ASP.NET Core 8, EF Core, JWT |
+| 🏦 **[Banking Transaction Warehouse](https://github.com/AmikoDavlasheridze/banking-transaction-warehouse)** | Banking data warehouse with a star schema, SCD Type 2 dimensions, transfer modeling and rebuildable ETL | SQL Server, T-SQL |
 | 🎸 **[RiffRecords](https://github.com/AmikoDavlasheridze/RiffRecords)** | Backend Web API for a vinyl record shop | ASP.NET Core, C# |
+| 💿 **[RiffRecords Frontend](https://github.com/AmikoDavlasheridze/FrontEndFinal---RiffRecords)** | Storefront UI for RiffRecords, built on top of the API | HTML, CSS, JavaScript |
 | 🚗 **[AutoFlip AI](https://github.com/AmikoDavlasheridze/AutoFlip)** | Car deal analyzer / flip calculator for MyAuto and FB Marketplace | C#, .NET |
-
 ---
 
 ## 📈 GitHub Stats & Metrics
